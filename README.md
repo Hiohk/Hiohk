@@ -51,7 +51,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend Development
-<div align="center">
+<div align="left">
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,7 +63,7 @@
 </div>
 
 ### 🔧 Backend Development
-<div align="center">
+<div align="left">
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -72,7 +72,7 @@
 </div>
 
 ### ⚙️ Tools & Platforms
-<div align="center">
+<div align="left">
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -84,7 +84,7 @@
 
 ## 📈 Development Activity
 
-<div align="center">
+<div align="left">
   
   [![Hiohk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiohk&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
@@ -98,10 +98,6 @@
 - 🌱 **Learning:** Advanced TypeScript patterns
 - 👯 **Collaborating:** On open-source projects
 - 💡 **Exploring:** Cloud technologies and DevOps
-
----
-  
-</div>
 
 ---
 
