@@ -1,34 +1,133 @@
-## Hi welcome to my github homepages. 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hiohk!;" />
+</h1>
 
-### My knowledge map website :page_with_curl:
+<div align="center">
+  
+  ## 🚀 Full-Stack Developer | Tech Enthusiast | Continuous Learner
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  
+</div>
 
-https://hiohk.github.io/knowledge-map/
+## 📖 About Me
 
-### Statistics :tada:
-![Hiohk's github stats](https://github-readme-stats.vercel.app/api?username=Hiohk&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiohk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <i>
+    Passionate full-stack developer with expertise in modern web technologies. <br>
+    I love building scalable applications and exploring new technologies. <br>
+    Currently focused on creating efficient solutions and sharing knowledge through my projects.
+  </i>
+</p>
 
-### Frontend Languages and Tools 👨‍💻
+---
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Hiohk)](https://github.com/Hiohk) 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Hiohk)](https://gitlab.com/Hiohk) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Hiohk)](https://github.com/Hiohk)
+## 🌐 Featured Project
 
+### 🗺️ Knowledge Map Website
+> **Your Personal Learning Journey Organized**
+> 
+> 🔗 **[Visit Knowledge Map](https://hiohk.github.io/knowledge-map/)**
+> 
+> A comprehensive platform to organize and visualize your learning path across various technologies and concepts.
 
-### Backend Languages and Tools :computer:
+---
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Hiohk)](https://github.com/v) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Hiohk)](https://github.com/Hiohk)
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiohk&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiohk&layout=compact&theme=radical&hide_border=true" />
+  
+  <br/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiohk&theme=radical&hide_border=true)
+  
+</div>
 
-<img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+---
 
-### Page Views 👀 
-![Visitor Count](https://profile-counter.glitch.me/Hiohk/count.svg)
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+</div>
+
+### 🔧 Backend Development
+<div align="center">
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</div>
+
+### ⚙️ Tools & Platforms
+<div align="center">
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+  
+</div>
+
+---
+
+## 📈 Development Activity
+
+<div align="center">
+  
+  [![Hiohk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiohk&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+---
+
+## 🎯 Currently Focusing On
+
+- 🔭 **Building:** Scalable web applications
+- 🌱 **Learning:** Advanced TypeScript patterns
+- 👯 **Collaborating:** On open-source projects
+- 💡 **Exploring:** Cloud technologies and DevOps
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hiohk.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  
+</div>
+
+---
+
+## 🎨 Fun Section
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  
+  <br/>
+  
+  ### 👀 Visitor Count
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Hiohk/count.svg)
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  
+  <p>⚡ <i>Thanks for visiting my profile!</i> ⚡</p>
+  
+</div>
