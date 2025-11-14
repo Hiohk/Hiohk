@@ -125,6 +125,7 @@
   ### 👀 Visitor Count
   
   ![Visitor Count](https://profile-counter.glitch.me/Hiohk/count.svg)
+  ![Visitor Count](http://antzuhl.cn:4000/get/@littleTreeme)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   
