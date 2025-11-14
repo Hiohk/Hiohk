@@ -100,15 +100,6 @@
 - 💡 **Exploring:** Cloud technologies and DevOps
 
 ---
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hiohk.github.io/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
   
 </div>
 
@@ -125,7 +116,6 @@
   ### 👀 Visitor Count
   
   ![Visitor Count](https://profile-counter.glitch.me/Hiohk/count.svg)
-  ![Visitor Count](http://antzuhl.cn:4000/get/@littleTreeme)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   
